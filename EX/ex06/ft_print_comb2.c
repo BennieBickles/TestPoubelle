@@ -52,6 +52,6 @@ void	ft_print_comb2(void) //Meme logique que le precedent mais en plus simple da
 //
 int	main(void)
 {
-	ft_print_comb2(void);
+	ft_print_comb2();
 	return (0);
 }
